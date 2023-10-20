@@ -9,8 +9,8 @@
 <P align="center"> 
   <h1>Resources</h1>
   <ul>
-    <li>1-the c standard book: https://b-ok.africa/book/633119/db5c78</li>
-    <li>2-makefile: https://b-ok.africa/book/2548807/233dc2</li>
+    <li>1-the c standard book: https://venkivasamsetti.github.io/ebookworm.github.io/Books/cse/C%20Programming%20Language%20(2nd%20Edition).pdf</li>
+    <li>2-makefile: https://www.gnu.org/software/make/manual/make.pdf</li>
     <li>3-file descriptor: https://www.computerhope.com/jargon/f/file-descriptor.htm</li>
     <li>3-tester: https://github.com/xicodomingues/francinette</li>
   </ul>
